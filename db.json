@@ -2,16 +2,22 @@
   "data1":[
   {
     "userId": 1,
-    "title": "asdfdksfksjdfkjdsf",
-    "author": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "title": "Ο Φυσικός χώρος της βιβλιοθήκης ως «Τρίτο μέρος» κοινωνικοποίησης και συνεργατικής μάθησης στην ψηφιακή εποχή",
+    "author": "Αγγελική Γαρούφαλη, Ελένη Ντρογκούλη, Βασίλειος Μπαταλάς",
     "link": "https://www.google.com"
   },
   {
-    "userId": 1,
-    "title": "qui est esse",
-    "author": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+    "userId": 2,
+    "title": "Ανοικτή Επιστήμη, Πολιτικές, τεχνολογίες & συνέργειες στην Ευρώπη και στην Ελλάδα",
+    "author": "Ναταλία Μανωλά",
     "link": "https://www.youtube.com"
-  }
+  },
+  {
+    "userId": 3,
+    "title": "Διαδίκτυο των Πραγμάτων και Ακαδημαϊκές Βιβλιοθήκες: η πρόκληση",
+    "author": "Ηλίας Κ. Σάββας",
+    "link": "https://www.google.com"
+  }  
   ]
 }  
   
